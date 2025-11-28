@@ -30,9 +30,10 @@ A high-performance, secure RESTful API for employee & task management. Built wit
    cd prou-backend-final
 
   Project Implementation Snapshots:
-  !(assets/img6.png)
-  !(assets/img5.png)
-  !(assets/img4.png)
-  !(assets/img3.png)
-  !(assets/img2.png)
-  !(assets/img1.png)
+  ![](assets/img6.png)
+  ![](assets/img5.png)
+  ![](assets/img4.png)
+  ![](assets/img3.png)
+  ![](assets/img2.png)
+  ![](assets/img1.png)
+
